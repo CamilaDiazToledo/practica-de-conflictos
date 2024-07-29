@@ -1,1 +1,1 @@
-print('Crearemos un lindo conflicto')
+print('Creamos un aun más lindo conflicto')
