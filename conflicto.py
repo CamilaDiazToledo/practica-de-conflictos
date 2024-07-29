@@ -1,2 +1,2 @@
-print("Nuevo inicio")
+data="Data"
 print('Haremos un conflicto nuevo')
