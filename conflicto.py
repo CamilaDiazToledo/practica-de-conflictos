@@ -1,1 +1,2 @@
-print('Creamos un aun más lindo conflicto')
+def conflicto():
+    pass
