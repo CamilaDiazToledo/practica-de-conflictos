@@ -1,3 +1,2 @@
-def conflicto():
-    pass
+print("Porfa no funciones")
 print('dioj mio')
