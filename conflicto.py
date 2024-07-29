@@ -3,6 +3,16 @@ print('dioj mio')
 
 
 
+casa=1
+
+
+
+
+
+
+
+
+
 
 
 
